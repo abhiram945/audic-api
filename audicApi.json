@@ -3,8 +3,8 @@
         {
             "id": 1,
             "song": "JD intro",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/JD intro.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/JD intro.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/JD intro.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/JD intro.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Bgms - surrounded"
@@ -12,8 +12,8 @@
         {
             "id": 2,
             "song": "Pablo sandhanam",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pablo sandhanam.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pablo sandhanam.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pablo sandhanam.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pablo sandhanam.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Bgms - surrounded"
@@ -21,8 +21,8 @@
         {
             "id": 3,
             "song": "Rolex bgm",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Rolex bgm.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Rolex bgm.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Rolex bgm.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Rolex bgm.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Bgms - surrounded"
@@ -30,8 +30,8 @@
         {
             "id": 4,
             "song": "Sound of vikram",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Sound of vikram.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Sound of vikram.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Sound of vikram.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Sound of vikram.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Bgms - surrounded"
@@ -39,8 +39,8 @@
         {
             "id": 5,
             "song": "Vaathi kabbadi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Vaathi kabbadi.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Vaathi kabbadi.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Vaathi kabbadi.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Vaathi kabbadi.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Bgms - surrounded"
@@ -48,8 +48,8 @@
         {
             "id": 6,
             "song": "Lala bheemla",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Lala bheemla.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Lala bheemla.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Lala bheemla.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Lala bheemla.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Newly Added Songs"
@@ -57,8 +57,8 @@
         {
             "id": 7,
             "song": "Hello rammante",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Hello rammante.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Hello rammante.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Hello rammante.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Hello rammante.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Newly Added Songs"
@@ -66,8 +66,8 @@
         {
             "id": 8,
             "song": "Kalalo kooda",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Kalalo kooda.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Kalalo kooda.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Kalalo kooda.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Kalalo kooda.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Newly Added Songs"
@@ -75,8 +75,8 @@
         {
             "id": 9,
             "song": "Mastaru mastaru",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Mastaru mastaru.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Mastaru mastaru.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Mastaru mastaru.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Mastaru mastaru.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Newly Added Songs"
@@ -84,8 +84,8 @@
         {
             "id": 10,
             "song": "Sugar and brownies",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Sugar and brownies.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Sugar and brownies.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Sugar and brownies.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Sugar and brownies.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Newly Added Songs"
@@ -93,8 +93,8 @@
         {
             "id": 11,
             "song": "Boss party",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Boss party.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Boss party.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Boss party.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Boss party.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -102,8 +102,8 @@
         {
             "id": 12,
             "song": "College papa",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/College papa.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/College papa.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/College papa.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/College papa.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -111,8 +111,8 @@
         {
             "id": 13,
             "song": "Danger pilla",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Danger pilla.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Danger pilla.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Danger pilla.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Danger pilla.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -120,8 +120,8 @@
         {
             "id": 14,
             "song": "Dhoom dhaam dhosthaan",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Dhoom dhaam dhosthaan.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Dhoom dhaam dhosthaan.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Dhoom dhaam dhosthaan.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Dhoom dhaam dhosthaan.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -129,8 +129,8 @@
         {
             "id": 15,
             "song": "Enno raathrulosthay",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Enno raathrulosthay.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Enno raathrulosthay.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Enno raathrulosthay.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Enno raathrulosthay.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -138,8 +138,8 @@
         {
             "id": 16,
             "song": "Ee single chinnode",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ee single chinnode.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ee single chinnode.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ee single chinnode.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ee single chinnode.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -147,8 +147,8 @@
         {
             "id": 17,
             "song": "Hukum",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Hukum.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Hukum.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Hukum.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Hukum.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -156,8 +156,8 @@
         {
             "id": 18,
             "song": "Jai sri ram(full)",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Jai sri ram(full).jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Jai sri ram(full).mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Jai sri ram(full).jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Jai sri ram(full).mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -165,8 +165,8 @@
         {
             "id": 19,
             "song": "Jai sri ram(trailer ver)",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Jai sri ram(trailer ver).jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Jai sri ram(trailer ver).mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Jai sri ram(trailer ver).jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Jai sri ram(trailer ver).mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -174,8 +174,8 @@
         {
             "id": 20,
             "song": "Kaavalayya",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Kaavalayya.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Kaavalayya.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Kaavalayya.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Kaavalayya.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -183,8 +183,8 @@
         {
             "id": 21,
             "song": "Kumkumala",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Kumkumala.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Kumkumala.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Kumkumala.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Kumkumala.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -192,8 +192,8 @@
         {
             "id": 22,
             "song": "Mawa bro",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Mawa bro.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Mawa bro.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Mawa bro.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Mawa bro.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -201,8 +201,8 @@
         {
             "id": 23,
             "song": "Nee chuttu chuttu",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nee chuttu chuttu.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nee chuttu chuttu.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nee chuttu chuttu.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nee chuttu chuttu.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -210,8 +210,8 @@
         {
             "id": 24,
             "song": "Neekemo andhamekkuva",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Neekemo andhamekkuva.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Neekemo andhamekkuva.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Neekemo andhamekkuva.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Neekemo andhamekkuva.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -219,8 +219,8 @@
         {
             "id": 25,
             "song": "Neeve",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Neeve.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Neeve.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Neeve.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Neeve.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -228,8 +228,8 @@
         {
             "id": 26,
             "song": "Odiyamma",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Odiyamma.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Odiyamma.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Odiyamma.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Odiyamma.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -237,8 +237,8 @@
         {
             "id": 27,
             "song": "Oh sita hey rama",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Oh sita hey rama.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Oh sita hey rama.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Oh sita hey rama.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Oh sita hey rama.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -246,8 +246,8 @@
         {
             "id": 28,
             "song": "Pilla puli",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pilla puli.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pilla puli.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pilla puli.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pilla puli.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -255,8 +255,8 @@
         {
             "id": 29,
             "song": "Priya mithunam",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Priya mithunam.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Priya mithunam.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Priya mithunam.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Priya mithunam.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -264,8 +264,8 @@
         {
             "id": 30,
             "song": "Proud se single",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Proud se single.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Proud se single.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Proud se single.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Proud se single.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -273,8 +273,8 @@
         {
             "id": 31,
             "song": "Pyaar lona paagale",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pyaar lona paagale.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pyaar lona paagale.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pyaar lona paagale.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pyaar lona paagale.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -282,8 +282,8 @@
         {
             "id": 32,
             "song": "Pulsar bike",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pulsar bike.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pulsar bike.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pulsar bike.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pulsar bike.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -291,8 +291,8 @@
         {
             "id": 33,
             "song": "Radhika",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Radhika.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Radhika.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Radhika.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Radhika.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -300,8 +300,8 @@
         {
             "id": 34,
             "song": "Rama loves sita",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Rama loves sita.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Rama loves sita.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Rama loves sita.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Rama loves sita.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -309,8 +309,8 @@
         {
             "id": 35,
             "song": "Sammohanuda",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Sammohanuda.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Sammohanuda.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Sammohanuda.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Sammohanuda.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -318,8 +318,8 @@
         {
             "id": 36,
             "song": "Sainika",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Sainika.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Sainika.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Sainika.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Sainika.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -327,8 +327,8 @@
         {
             "id": 37,
             "song": "Suguna sundari",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Suguna sundari.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Suguna sundari.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Suguna sundari.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Suguna sundari.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -336,8 +336,8 @@
         {
             "id": 38,
             "song": "Suttamla",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Suttamla.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Suttamla.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Suttamla.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Suttamla.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -345,8 +345,8 @@
         {
             "id": 39,
             "song": "Thattukolene",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Thattukolene.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Thattukolene.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Thattukolene.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Thattukolene.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Telugu Songs"
@@ -354,8 +354,8 @@
         {
             "id": 40,
             "song": "Bad boy",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Bad boy.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Bad boy.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Bad boy.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Bad boy.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -363,8 +363,8 @@
         {
             "id": 41,
             "song": "Closer",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Closer.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Closer.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Closer.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Closer.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -372,8 +372,8 @@
         {
             "id": 42,
             "song": "Dandelions",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Dandelions.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Dandelions.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Dandelions.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Dandelions.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -381,8 +381,8 @@
         {
             "id": 43,
             "song": "Faded",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Faded.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Faded.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Faded.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Faded.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -390,8 +390,8 @@
         {
             "id": 44,
             "song": "Levitating",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Levitating.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Levitating.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Levitating.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Levitating.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -399,8 +399,8 @@
         {
             "id": 45,
             "song": "Joker",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Joker.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Joker.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Joker.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Joker.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -408,8 +408,8 @@
         {
             "id": 46,
             "song": "Let me love you",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Let me love you.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Let me love you.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Let me love you.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Let me love you.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -417,8 +417,8 @@
         {
             "id": 47,
             "song": "Love me like you do",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Love me like you do.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Love me like you do.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Love me like you do.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Love me like you do.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -426,8 +426,8 @@
         {
             "id": 48,
             "song": "No scars",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/No scars.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/No scars.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/No scars.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/No scars.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -435,8 +435,8 @@
         {
             "id": 49,
             "song": "Perfect",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Perfect.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Perfect.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Perfect.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Perfect.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -444,8 +444,8 @@
         {
             "id": 50,
             "song": "Shape of you",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Shape of you.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Shape of you.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Shape of you.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Shape of you.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -453,8 +453,8 @@
         {
             "id": 51,
             "song": "Stay",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Stay.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Stay.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Stay.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Stay.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -462,8 +462,8 @@
         {
             "id": 52,
             "song": "The nights",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/The nights.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/The nights.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/The nights.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/The nights.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -471,8 +471,8 @@
         {
             "id": 53,
             "song": "Harleys in hawaii",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Harleys in hawaii.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Harleys in hawaii.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Harleys in hawaii.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Harleys in hawaii.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -480,8 +480,8 @@
         {
             "id": 54,
             "song": "Venom",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Venom.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Venom.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Venom.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Venom.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "English Songs"
@@ -489,8 +489,8 @@
         {
             "id": 55,
             "song": "Ammayi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ammayi.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ammayi.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ammayi.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ammayi.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -498,8 +498,8 @@
         {
             "id": 56,
             "song": "Appudo ippudo",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Appudo ippudo.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Appudo ippudo.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Appudo ippudo.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Appudo ippudo.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -507,8 +507,8 @@
         {
             "id": 57,
             "song": "Aradhya",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Aradhya.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Aradhya.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Aradhya.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Aradhya.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -516,8 +516,8 @@
         {
             "id": 58,
             "song": "Avunanavaa",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Avunanavaa.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Avunanavaa.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Avunanavaa.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Avunanavaa.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -525,8 +525,8 @@
         {
             "id": 59,
             "song": "Ayyayyo",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ayyayyo.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ayyayyo.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ayyayyo.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ayyayyo.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -534,8 +534,8 @@
         {
             "id": 60,
             "song": "Bullettu la",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Bullettu la.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Bullettu la.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Bullettu la.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Bullettu la.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -543,8 +543,8 @@
         {
             "id": 61,
             "song": "Chilipiga choosthavala",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chilipiga choosthavala.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chilipiga choosthavala.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chilipiga choosthavala.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chilipiga choosthavala.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -552,8 +552,8 @@
         {
             "id": 62,
             "song": "Chiru chiru chiru",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chiru chiru chiru.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chiru chiru chiru.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chiru chiru chiru.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chiru chiru chiru.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -561,8 +561,8 @@
         {
             "id": 63,
             "song": "Choosi chudangane",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Choosi chudangane.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Choosi chudangane.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Choosi chudangane.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Choosi chudangane.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -570,8 +570,8 @@
         {
             "id": 64,
             "song": "Chusthu chusthune",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chusthu chusthune.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chusthu chusthune.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chusthu chusthune.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chusthu chusthune.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -579,8 +579,8 @@
         {
             "id": 65,
             "song": "Gundellona",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Gundellona.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Gundellona.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Gundellona.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Gundellona.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -588,8 +588,8 @@
         {
             "id": 66,
             "song": "Inthandham",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Inthandham.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Inthandham.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Inthandham.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Inthandham.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -597,8 +597,8 @@
         {
             "id": 67,
             "song": "Leharayi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Leharayi.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Leharayi.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Leharayi.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Leharayi.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -606,8 +606,8 @@
         {
             "id": 68,
             "song": "Megham karigena",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Megham karigena.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Megham karigena.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Megham karigena.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Megham karigena.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -615,8 +615,8 @@
         {
             "id": 69,
             "song": "Mehabooba",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Mehabooba.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Mehabooba.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Mehabooba.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Mehabooba.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -624,8 +624,8 @@
         {
             "id": 70,
             "song": "Na roja nuvve",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Na roja nuvve.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Na roja nuvve.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Na roja nuvve.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Na roja nuvve.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -633,8 +633,8 @@
         {
             "id": 71,
             "song": "Nee kallalona kaatuka",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nee kallalona kaatuka.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nee kallalona kaatuka.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nee kallalona kaatuka.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nee kallalona kaatuka.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -642,8 +642,8 @@
         {
             "id": 72,
             "song": "Nenu nuvvantu",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nenu nuvvantu.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nenu nuvvantu.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nenu nuvvantu.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nenu nuvvantu.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -651,8 +651,8 @@
         {
             "id": 73,
             "song": "Ninne Ninne",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ninne Ninne.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ninne Ninne.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ninne Ninne.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ninne Ninne.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -660,8 +660,8 @@
         {
             "id": 74,
             "song": "Ninnu chusaka",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ninnu chusaka.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ninnu chusaka.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ninnu chusaka.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ninnu chusaka.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -669,8 +669,8 @@
         {
             "id": 75,
             "song": "Nijamene chebuthunna",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nijamene chebuthunna.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nijamene chebuthunna.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nijamene chebuthunna.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nijamene chebuthunna.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -678,8 +678,8 @@
         {
             "id": 76,
             "song": "Nuvvunte chalu",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nuvvunte chalu.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nuvvunte chalu.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nuvvunte chalu.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nuvvunte chalu.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -687,8 +687,8 @@
         {
             "id": 77,
             "song": "Nuvvu navvukuntu",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nuvvu navvukuntu.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Nuvvu navvukuntu.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nuvvu navvukuntu.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Nuvvu navvukuntu.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -696,8 +696,8 @@
         {
             "id": 78,
             "song": "O rendu prema meghaalila",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/O rendu prema meghaalila.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/O rendu prema meghaalila.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/O rendu prema meghaalila.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/O rendu prema meghaalila.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -705,8 +705,8 @@
         {
             "id": 79,
             "song": "Oh bangaram",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Oh bangaram.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Oh bangaram.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Oh bangaram.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Oh bangaram.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -714,8 +714,8 @@
         {
             "id": 80,
             "song": "Oh manasa",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Oh manasa.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Oh manasa.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Oh manasa.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Oh manasa.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -723,8 +723,8 @@
         {
             "id": 81,
             "song": "Oke oka lokam nuvve",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Oke oka lokam nuvve.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Oke oka lokam nuvve.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Oke oka lokam nuvve.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Oke oka lokam nuvve.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -732,8 +732,8 @@
         {
             "id": 82,
             "song": "Ola olaala",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ola olaala.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Ola olaala.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ola olaala.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Ola olaala.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -741,8 +741,8 @@
         {
             "id": 83,
             "song": "Potti pilla",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Potti pilla.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Potti pilla.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Potti pilla.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Potti pilla.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -750,8 +750,8 @@
         {
             "id": 84,
             "song": "Rooba rooba",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Rooba rooba.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Rooba rooba.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Rooba rooba.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Rooba rooba.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -759,8 +759,8 @@
         {
             "id": 85,
             "song": "Thaane vachhindana",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Thaane vachhindana.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Thaane vachhindana.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Thaane vachhindana.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Thaane vachhindana.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -768,8 +768,8 @@
         {
             "id": 86,
             "song": "Undipova nuvvila",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Undipova nuvvila.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Undipova nuvvila.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Undipova nuvvila.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Undipova nuvvila.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Feel good songs"
@@ -777,8 +777,8 @@
         {
             "id": 87,
             "song": "Chirunavve",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chirunavve.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chirunavve.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chirunavve.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chirunavve.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -786,8 +786,8 @@
         {
             "id": 88,
             "song": "Evarevaro",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Evarevaro.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Evarevaro.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Evarevaro.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Evarevaro.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -795,8 +795,8 @@
         {
             "id": 89,
             "song": "Hrudayama",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Hrudayama.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Hrudayama.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Hrudayama.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Hrudayama.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -804,8 +804,8 @@
         {
             "id": 90,
             "song": "Lokam mottham",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Lokam mottham.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Lokam mottham.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Lokam mottham.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Lokam mottham.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -813,8 +813,8 @@
         {
             "id": 91,
             "song": "My love is gone",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/My love is gone.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/My love is gone.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/My love is gone.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/My love is gone.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -822,8 +822,8 @@
         {
             "id": 92,
             "song": "Naa madhi",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Naa madhi.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Naa madhi.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Naa madhi.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Naa madhi.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -831,8 +831,8 @@
         {
             "id": 93,
             "song": "Neeve neeve",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Neeve neeve.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Neeve neeve.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Neeve neeve.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Neeve neeve.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -840,8 +840,8 @@
         {
             "id": 94,
             "song": "Orange love",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Orange love.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Orange love.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Orange love.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Orange love.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -849,8 +849,8 @@
         {
             "id": 95,
             "song": "Pilla raa",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pilla raa.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Pilla raa.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pilla raa.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Pilla raa.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -858,8 +858,8 @@
         {
             "id": 96,
             "song": "Uppenantha",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Uppenantha.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Uppenantha.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Uppenantha.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Uppenantha.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Mood off Songs"
@@ -867,8 +867,8 @@
         {
             "id": 97,
             "song": "Adiye",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Adiye.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Adiye.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Adiye.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Adiye.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Other language"
@@ -876,8 +876,8 @@
         {
             "id": 98,
             "song": "Chaleya",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chaleya.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Chaleya.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chaleya.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Chaleya.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Other language"
@@ -885,8 +885,8 @@
         {
             "id": 99,
             "song": "Naan gaali",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Naan gaali.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Naan gaali.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Naan gaali.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Naan gaali.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Other language"
@@ -894,8 +894,8 @@
         {
             "id": 100,
             "song": "Heeriye",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Heeriye.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Heeriye.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Heeriye.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Heeriye.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Other language"
@@ -903,8 +903,8 @@
         {
             "id": 101,
             "song": "Tere vaaste",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Tere vaaste.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Tere vaaste.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Tere vaaste.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Tere vaaste.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Other language"
@@ -912,8 +912,8 @@
         {
             "id": 102,
             "song": "Seven(K-pop)",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Seven(K-pop).jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/Seven(K-pop).mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Seven(K-pop).jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Seven(K-pop).mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Other language"
@@ -921,8 +921,8 @@
         {
             "id": 103,
             "song": "15M healing",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/15M healing.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/15M healing.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/15M healing.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/15M healing.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Relaxation Songs"
@@ -930,8 +930,8 @@
         {
             "id": 104,
             "song": "I should have stayed at home",
-            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/I should have stayed at home.jpg",
-            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic/main/public/assets/music/I should have stayed at home.mp3",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/I should have stayed at home.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/I should have stayed at home.mp3",
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Newly Added Songs"
