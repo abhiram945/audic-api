@@ -935,6 +935,24 @@
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Newly Added Songs"
-        }
+        },
+        {
+            "id": 105,
+            "song": "Varinche prema",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Varinche prema.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Varinche prema.mp3",
+            "movie": "Unknown",
+            "singer": "Unknown",
+            "category": "Newly Added Songs"
+        },
+        {
+            "id": 106,
+            "song": "Madam sir madam anthe",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Madam sir madam anthe.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Madam sir madam anthe.mp3",
+            "movie": "Unknown",
+            "singer": "Unknown",
+            "category": "Newly Added Songs"
+        },
     ]
 }
