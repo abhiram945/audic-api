@@ -953,6 +953,24 @@
             "movie": "Unknown",
             "singer": "Unknown",
             "category": "Newly Added Songs"
+        },
+        {
+            "id": 107,
+            "song": "Safari",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Safari.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/Safari.mp3",
+            "movie": "Unknown",
+            "singer": "Unknown",
+            "category": "Newly Added Songs"
+        },
+        {
+            "id": 108,
+            "song": "One Love",
+            "thumbnailUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/One Love.jpg",
+            "songUrl": "https://raw.githubusercontent.com/abhiram945/audic-api/main/music/One Love.mp3",
+            "movie": "Unknown",
+            "singer": "Unknown",
+            "category": "Newly Added Songs"
         }
     ]
 }
